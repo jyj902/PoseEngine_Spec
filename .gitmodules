@@ -1,0 +1,3 @@
+[submodule "PoseEngine"]
+	path = PoseEngine
+	url = git@github.com:HnH-Developer/kmm-pose-engine.git
